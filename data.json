@@ -1,0 +1,23 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "http://ddssdsddssd",
+      "name": "dssdsddssd",
+      "birth": 1606089600000,
+      "degree": "Ensino Médio Completo",
+      "typeofclass": "Presencial",
+      "created_at": 1606180568932
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://wddfdff.com",
+      "name": "cxcxcxcx",
+      "birth": 1606089600000,
+      "degree": "Doutorado",
+      "areas": "cxcxxcxcxccxxc",
+      "typeofclass": "Presencial",
+      "created_at": 1606180741743
+    }
+  ]
+}
